@@ -1,7 +1,7 @@
 version: "3.8"
 services:
   rust:
-    container_name: "rust"
+    container_name: "toyota-hc-2023spring"
     build: ./
     volumes:
       - ./:/rust:delegated
