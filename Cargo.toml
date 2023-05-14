@@ -1,5 +1,5 @@
 [workspace]
 members = [
-    "lambda-template",
+    "toyota2023sp",
     "solver",
 ]

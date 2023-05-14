@@ -1,6 +1,6 @@
 import json
 
-N = 100
+N = 10
 
 if __name__ == "__main__":
     data = []
